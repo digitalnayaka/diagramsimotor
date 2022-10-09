@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T20:07:15.420Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="DB6KXfQ4eq0bHr4rABEo" version="20.4.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-09T20:09:16.223Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="nxCKGiJjSQ3cF8T84Jou" version="20.4.0" type="github" pages="5">
   <diagram id="8JwmmRrR1gZthdUnmFxn" name="Tiket">
     <mxGraphModel dx="571" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -455,7 +455,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZaAYZwhZIQ6n6J3o2uvx" name="Transaksi">
-    <mxGraphModel dx="2228" dy="1790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1371" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

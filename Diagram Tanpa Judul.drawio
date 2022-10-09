@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T19:24:45.123Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="hDp3OehYAtSDZ-9wJceA" version="20.4.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-09T19:31:30.443Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="NPi7SGFumP4YjCkwR4TP" version="20.4.0" type="github" pages="5">
   <diagram id="8JwmmRrR1gZthdUnmFxn" name="Tiket">
     <mxGraphModel dx="571" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -455,7 +455,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZaAYZwhZIQ6n6J3o2uvx" name="Transaksi">
-    <mxGraphModel dx="1620" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="775" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -576,7 +576,7 @@
         <mxCell id="KOYn50pzCzDOGQvogc1y-20" value="Saldo nominal yang telah di bayarkan oleh pembeli masuk ke akun pembeli saldo digital SiMotor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1625" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KOYn50pzCzDOGQvogc1y-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KOYn50pzCzDOGQvogc1y-28" target="KOYn50pzCzDOGQvogc1y-33">
+        <mxCell id="KOYn50pzCzDOGQvogc1y-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KOYn50pzCzDOGQvogc1y-28" target="KOYn50pzCzDOGQvogc1y-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KOYn50pzCzDOGQvogc1y-28" value="SOP dengan Tim SiMotor" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -594,17 +594,47 @@
         <mxCell id="KOYn50pzCzDOGQvogc1y-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KOYn50pzCzDOGQvogc1y-33" target="KOYn50pzCzDOGQvogc1y-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KOYn50pzCzDOGQvogc1y-33" value="Batas Investigasi . aduan melebih waktu maksimal" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2060" y="840" width="80" height="80" as="geometry" />
+        <mxCell id="KOYn50pzCzDOGQvogc1y-33" value="Sudah terdapat hasil investigasi" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="840" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KOYn50pzCzDOGQvogc1y-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KOYn50pzCzDOGQvogc1y-36" target="KOYn50pzCzDOGQvogc1y-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KOYn50pzCzDOGQvogc1y-36" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KOYn50pzCzDOGQvogc1y-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KOYn50pzCzDOGQvogc1y-36" target="KOYn50pzCzDOGQvogc1y-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KOYn50pzCzDOGQvogc1y-36" value="Pembeli menang" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1870" y="960" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KOYn50pzCzDOGQvogc1y-37" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KOYn50pzCzDOGQvogc1y-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KOYn50pzCzDOGQvogc1y-37" target="KOYn50pzCzDOGQvogc1y-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KOYn50pzCzDOGQvogc1y-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KOYn50pzCzDOGQvogc1y-37" target="KOYn50pzCzDOGQvogc1y-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KOYn50pzCzDOGQvogc1y-37" value="Penjual menang" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2000" y="960" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KOYn50pzCzDOGQvogc1y-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KOYn50pzCzDOGQvogc1y-41" target="KOYn50pzCzDOGQvogc1y-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KOYn50pzCzDOGQvogc1y-41" value="Hasil investigasi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KOYn50pzCzDOGQvogc1y-48" value="Saldo nominal yang telah di bayarkan oleh pembeli masuk ke akun penjual saldo digital SiMotor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KOYn50pzCzDOGQvogc1y-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KOYn50pzCzDOGQvogc1y-50" target="KOYn50pzCzDOGQvogc1y-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2360" y="1000" />
+              <mxPoint x="2360" y="820" />
+              <mxPoint x="1970" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KOYn50pzCzDOGQvogc1y-50" value="Ditangguhkan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

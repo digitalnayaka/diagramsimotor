@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T08:11:43.655Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="h1ZF4prUp4RGDpLvH9ox" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T08:12:43.440Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="deP8Gt55FCH_AqUZTiYs" version="20.5.3" type="github">
   <diagram id="vx5J0c7jl_oksi7acMSr" name="Halaman-1">
     <mxGraphModel dx="891" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -348,7 +348,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fmCFV8p63CBGhk6ij7gs-112" value="RUSAK&lt;br&gt;Ring &amp;amp; Piston" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fmCFV8p63CBGhk6ij7gs-112" value="RUSAK&lt;br&gt;- Ring &amp;amp; Piston&lt;br&gt;- Blok Mesin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="4715" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fmCFV8p63CBGhk6ij7gs-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-118" target="fmCFV8p63CBGhk6ij7gs-119" edge="1">
@@ -398,7 +398,7 @@
         <mxCell id="fmCFV8p63CBGhk6ij7gs-139" value="&lt;span style=&quot;white-space: pre;&quot;&gt;BAGUS&lt;/span&gt;&lt;br&gt;Belt Drive" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="4470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fmCFV8p63CBGhk6ij7gs-143" value="BAGUS&lt;br&gt;Ring &amp;amp; Piston" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fmCFV8p63CBGhk6ij7gs-143" value="BAGUS&lt;br&gt;- Ring &amp;amp; Piston&lt;br&gt;- Blok Mesin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="4890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fmCFV8p63CBGhk6ij7gs-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-147" target="fmCFV8p63CBGhk6ij7gs-149" edge="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T08:04:09.580Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="8hbv35DFYM_Y77UEfH5K" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T08:07:00.618Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="mi4DxTy6auQVtH4vMhgW" version="20.5.3" type="github">
   <diagram id="vx5J0c7jl_oksi7acMSr" name="Halaman-1">
     <mxGraphModel dx="743" dy="1766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,7 +254,7 @@
         <mxCell id="fmCFV8p63CBGhk6ij7gs-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-95" target="fmCFV8p63CBGhk6ij7gs-124" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fmCFV8p63CBGhk6ij7gs-95" value="Apakah motor dapat menyala ketika di hidupkan dengan tombol starter ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fmCFV8p63CBGhk6ij7gs-95" value="(SEMUA TIPE)&lt;br&gt;Apakah motor dapat menyala ketika di hidupkan dengan tombol starter ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="3060" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="fmCFV8p63CBGhk6ij7gs-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-96" target="fmCFV8p63CBGhk6ij7gs-149" edge="1">
@@ -380,7 +380,7 @@
         <mxCell id="fmCFV8p63CBGhk6ij7gs-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-99" target="fmCFV8p63CBGhk6ij7gs-129" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fmCFV8p63CBGhk6ij7gs-99" value="Apakah mesin tetap hidup saat dilepas gas ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fmCFV8p63CBGhk6ij7gs-99" value="(SEMUA TIPE)&lt;br&gt;Apakah mesin tetap hidup saat dilepas gas ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="3460" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="fmCFV8p63CBGhk6ij7gs-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-129" target="fmCFV8p63CBGhk6ij7gs-103" edge="1">

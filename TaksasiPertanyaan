@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T07:44:13.668Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="dC2_tvK7REYu0ubcIfE2" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T07:52:12.893Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="eCO56gBlVF0_rmHYD9NT" version="20.5.3" type="github">
   <diagram id="vx5J0c7jl_oksi7acMSr" name="Halaman-1">
-    <mxGraphModel dx="463" dy="1428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="743" dy="1766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,7 +206,12 @@
           <mxGeometry x="480" y="2630" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fmCFV8p63CBGhk6ij7gs-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-76" target="fmCFV8p63CBGhk6ij7gs-149" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="2680" />
+              <mxPoint x="710" y="5410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fmCFV8p63CBGhk6ij7gs-76" value="RUSAK&lt;br&gt;- CDI&lt;br&gt;- Kiprok&lt;br&gt;- Kabel Body&lt;br&gt;- Battery&lt;br&gt;&lt;br&gt;——-&lt;br&gt;&lt;br&gt;- Dinamo Starter&lt;br&gt;- Ring Piston&lt;br&gt;- Karburator / Injection" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="2410" width="120" height="270" as="geometry" />
@@ -237,7 +242,7 @@
         <mxCell id="fmCFV8p63CBGhk6ij7gs-84" value="RUSAK&lt;br&gt;Lampu Depan/Belakang" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="2835" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fmCFV8p63CBGhk6ij7gs-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-86" target="fmCFV8p63CBGhk6ij7gs-91" edge="1">
+        <mxCell id="fmCFV8p63CBGhk6ij7gs-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" parent="1" source="CebwtZ_nPJwukU4r8i59-4" target="fmCFV8p63CBGhk6ij7gs-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fmCFV8p63CBGhk6ij7gs-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-86" target="fmCFV8p63CBGhk6ij7gs-152" edge="1">
@@ -255,7 +260,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fmCFV8p63CBGhk6ij7gs-91" value="RUSAK&lt;br&gt;Kunci Kontak" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="2265" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="2265" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fmCFV8p63CBGhk6ij7gs-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-95" target="fmCFV8p63CBGhk6ij7gs-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -366,7 +371,7 @@
         <mxCell id="fmCFV8p63CBGhk6ij7gs-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-118" target="fmCFV8p63CBGhk6ij7gs-147" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fmCFV8p63CBGhk6ij7gs-118" value="Apakah kanlpot motor original dan bersuara normal (tidak keras) ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fmCFV8p63CBGhk6ij7gs-118" value="( SEMUA TIPE )&lt;br&gt;Apakah kanlpot motor masih standar dan suara tidak berisik ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="5020" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="fmCFV8p63CBGhk6ij7gs-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-119" target="fmCFV8p63CBGhk6ij7gs-149" edge="1">
@@ -486,11 +491,34 @@
         <mxCell id="fmCFV8p63CBGhk6ij7gs-212" value="BAGUS&lt;br&gt;- CDI&lt;br&gt;- Kiprok&lt;br&gt;- Kabel Body&lt;br&gt;- Battery" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="2690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fmCFV8p63CBGhk6ij7gs-217" value="RUSAK&lt;br&gt;- CDI&lt;br&gt;- Kiprok&lt;br&gt;- Kabel Body&lt;br&gt;- Battery&lt;br&gt;- Dinamo Starter&lt;br&gt;- Ring Piston&lt;br&gt;- Karburator / Injection" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fmCFV8p63CBGhk6ij7gs-217" value="RUSAK&lt;br&gt;- CDI&lt;br&gt;- Kiprok&lt;br&gt;- Kabel Body&lt;br&gt;- Battery&lt;br&gt;- Dinamo Starter&lt;br&gt;- Ring Piston&lt;br&gt;- Karburator / Injection&lt;br&gt;- Kenalpot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="2365" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="fmCFV8p63CBGhk6ij7gs-218" value="RUSAK&lt;br&gt;Karburator / Injection" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="3610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CebwtZ_nPJwukU4r8i59-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CebwtZ_nPJwukU4r8i59-4" target="CebwtZ_nPJwukU4r8i59-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CebwtZ_nPJwukU4r8i59-4" value="Apakah motor bisa menyala ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="2230" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CebwtZ_nPJwukU4r8i59-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="fmCFV8p63CBGhk6ij7gs-86" target="CebwtZ_nPJwukU4r8i59-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="2295" as="sourcePoint" />
+            <mxPoint x="630" y="2295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CebwtZ_nPJwukU4r8i59-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CebwtZ_nPJwukU4r8i59-6" target="fmCFV8p63CBGhk6ij7gs-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="2470" />
+              <mxPoint x="225" y="2470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CebwtZ_nPJwukU4r8i59-6" value="RUSAK&lt;br&gt;Kunci Kontak" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

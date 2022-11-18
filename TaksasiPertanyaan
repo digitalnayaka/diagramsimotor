@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T08:22:57.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="3CzG4D0gzzDJkTkUZ-0T" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T08:29:34.077Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="nQPvfqn8tVwRT---mt9U" version="20.5.3" type="github">
   <diagram id="vx5J0c7jl_oksi7acMSr" name="Halaman-1">
     <mxGraphModel dx="1188" dy="2124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -233,15 +233,6 @@
         </mxCell>
         <mxCell id="fmCFV8p63CBGhk6ij7gs-84" value="RUSAK&lt;br&gt;Lampu Depan/Belakang" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="2835" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fmCFV8p63CBGhk6ij7gs-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" parent="1" source="CebwtZ_nPJwukU4r8i59-4" target="fmCFV8p63CBGhk6ij7gs-91" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="raGGirFVtc7NLPR5CfyT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmCFV8p63CBGhk6ij7gs-91" target="fmCFV8p63CBGhk6ij7gs-217">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fmCFV8p63CBGhk6ij7gs-91" value="RUSAK&lt;br&gt;Kunci Kontak" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="2265" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fmCFV8p63CBGhk6ij7gs-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-95" target="fmCFV8p63CBGhk6ij7gs-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -479,6 +470,9 @@
           <mxGeometry x="525" y="3610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CebwtZ_nPJwukU4r8i59-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CebwtZ_nPJwukU4r8i59-4" target="CebwtZ_nPJwukU4r8i59-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="raGGirFVtc7NLPR5CfyT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CebwtZ_nPJwukU4r8i59-4" target="fmCFV8p63CBGhk6ij7gs-217">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CebwtZ_nPJwukU4r8i59-4" value="Apakah motor bisa menyala ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T08:07:00.618Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="mi4DxTy6auQVtH4vMhgW" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T08:11:43.655Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="h1ZF4prUp4RGDpLvH9ox" version="20.5.3" type="github">
   <diagram id="vx5J0c7jl_oksi7acMSr" name="Halaman-1">
-    <mxGraphModel dx="743" dy="1766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="891" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="fmCFV8p63CBGhk6ij7gs-8" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); -webkit-text-size-adjust: none; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration: none; float: none; display: inline !important;&quot;&gt;Manakah cover body yang tidak lengkap atau terlihat pecah ?&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="-852.5" width="160" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="CebwtZ_nPJwukU4r8i59-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmCFV8p63CBGhk6ij7gs-10" target="fmCFV8p63CBGhk6ij7gs-3">
+        <mxCell id="CebwtZ_nPJwukU4r8i59-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-10" target="fmCFV8p63CBGhk6ij7gs-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fmCFV8p63CBGhk6ij7gs-10" value="RUSAK&lt;br&gt;(dapat memilih lebih dari satu)&amp;nbsp;&lt;br&gt;- Spakboard&lt;br&gt;- &amp;nbsp;Tutup( Cover ) Body Depan (SEMUA TIPE )&lt;br&gt;- &amp;nbsp;Tutup ( Cover ) Body Belakang&lt;br&gt;- Tutup ( Cover &amp;nbsp;) Sayap ( KECUALI MATIC )&lt;br&gt;- Kap Lantai ( MATIC )" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
@@ -129,7 +129,7 @@
         <mxCell id="fmCFV8p63CBGhk6ij7gs-44" value="( SEMUA TIPE )&lt;br&gt;Apakah rem depan dan belakang berfungsi dengan baik" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="1000" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="CebwtZ_nPJwukU4r8i59-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmCFV8p63CBGhk6ij7gs-47" target="fmCFV8p63CBGhk6ij7gs-55">
+        <mxCell id="CebwtZ_nPJwukU4r8i59-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-47" target="fmCFV8p63CBGhk6ij7gs-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fmCFV8p63CBGhk6ij7gs-47" value="RUSAK&lt;br&gt;- Disk Brake&lt;br&gt;- Kaliper Cakram&lt;br&gt;- Master Cakram" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -164,7 +164,7 @@
         <mxCell id="fmCFV8p63CBGhk6ij7gs-60" value="( SEMUA TIPE )&lt;br&gt;Apakah jok sadel terlihat tidak ada sobek , terkelupas , berlubang &amp;nbsp;maupun tidak terlihat tipis ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="1940" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="CebwtZ_nPJwukU4r8i59-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmCFV8p63CBGhk6ij7gs-64" target="CebwtZ_nPJwukU4r8i59-4">
+        <mxCell id="CebwtZ_nPJwukU4r8i59-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-64" target="CebwtZ_nPJwukU4r8i59-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fmCFV8p63CBGhk6ij7gs-64" value="RUSAK&lt;br&gt;Jok Sadel" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -314,7 +314,7 @@
         <mxCell id="fmCFV8p63CBGhk6ij7gs-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-107" target="fmCFV8p63CBGhk6ij7gs-139" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fmCFV8p63CBGhk6ij7gs-107" value="Apakah roda berputar ketika di gas ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fmCFV8p63CBGhk6ij7gs-107" value="( MATIC )&lt;br&gt;Apakah roda berputar ketika di gas ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="4230" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="fmCFV8p63CBGhk6ij7gs-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-108" target="fmCFV8p63CBGhk6ij7gs-111" edge="1">
@@ -439,7 +439,7 @@
         <mxCell id="fmCFV8p63CBGhk6ij7gs-183" value="BAGUS&lt;br&gt;- Shockbreker depan&lt;br&gt;- Shockbreker belakang" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CebwtZ_nPJwukU4r8i59-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmCFV8p63CBGhk6ij7gs-187" target="fmCFV8p63CBGhk6ij7gs-55">
+        <mxCell id="CebwtZ_nPJwukU4r8i59-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-187" target="fmCFV8p63CBGhk6ij7gs-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fmCFV8p63CBGhk6ij7gs-187" value="BAGUS&lt;br&gt;- Disk Brake&lt;br&gt;- Kaliper Cakram&lt;br&gt;- Master Cakram" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -451,7 +451,7 @@
         <mxCell id="fmCFV8p63CBGhk6ij7gs-196" value="BAGUS&lt;br&gt;Tangki" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CebwtZ_nPJwukU4r8i59-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmCFV8p63CBGhk6ij7gs-202" target="CebwtZ_nPJwukU4r8i59-4">
+        <mxCell id="CebwtZ_nPJwukU4r8i59-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fmCFV8p63CBGhk6ij7gs-202" target="CebwtZ_nPJwukU4r8i59-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fmCFV8p63CBGhk6ij7gs-202" value="BAGUS&lt;br&gt;Jok Sadel" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -480,23 +480,26 @@
         <mxCell id="fmCFV8p63CBGhk6ij7gs-218" value="RUSAK&lt;br&gt;Karburator / Injection" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="525" y="3610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CebwtZ_nPJwukU4r8i59-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CebwtZ_nPJwukU4r8i59-4" target="CebwtZ_nPJwukU4r8i59-6">
+        <mxCell id="CebwtZ_nPJwukU4r8i59-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CebwtZ_nPJwukU4r8i59-4" target="CebwtZ_nPJwukU4r8i59-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CebwtZ_nPJwukU4r8i59-4" value="Apakah motor bisa menyala ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CebwtZ_nPJwukU4r8i59-4" value="Apakah motor bisa menyala ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="2230" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CebwtZ_nPJwukU4r8i59-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CebwtZ_nPJwukU4r8i59-6" target="fmCFV8p63CBGhk6ij7gs-67">
+        <mxCell id="CebwtZ_nPJwukU4r8i59-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CebwtZ_nPJwukU4r8i59-6" target="fmCFV8p63CBGhk6ij7gs-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CebwtZ_nPJwukU4r8i59-6" value="BAGUS&lt;br&gt;- Kunci Kontak&lt;br&gt;- CDI&lt;br&gt;- Ring Piston" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CebwtZ_nPJwukU4r8i59-6" value="BAGUS&lt;br&gt;- Kunci Kontak&lt;br&gt;- CDI&lt;br&gt;- Ring Piston" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="2380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CebwtZ_nPJwukU4r8i59-9" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="CebwtZ_nPJwukU4r8i59-9" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="515" y="2255" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CebwtZ_nPJwukU4r8i59-11" value="Iya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="CebwtZ_nPJwukU4r8i59-11" value="Iya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="460" y="2345" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="raGGirFVtc7NLPR5CfyT-1" value="Apakah pada bak mesin tidak terlihat kebocoran ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="765" y="3780" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
